@@ -1,0 +1,4 @@
+192.168.0.112 22 ubuntu ubuntu
+192.168.0.115 22 kali kali
+192.168.0.114 22 debian debian
+192.168.0.117 22 mint mint
